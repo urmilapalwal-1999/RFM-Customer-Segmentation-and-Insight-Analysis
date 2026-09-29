@@ -77,10 +77,8 @@ Tools Used
 Python for the full workflow
 Pandas and NumPy for cleaning, aggregation and scoring
 Seaborn and Matplotlib for visualisation
-itertools for product pair analysis
-Repository Contents
-├── README.md
-└── EDA_Project_Urmila_Palwal.docx   # Full report with code, output and insights
+
+
 Author
 
 Urmila Palwal
